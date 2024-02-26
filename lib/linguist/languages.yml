@@ -586,6 +586,14 @@ Bikeshed:
   codemirror_mode: htmlmixed
   codemirror_mime_type: text/html
   language_id: 1055528081
+Bigbang:
+  type: programming
+  color: "#f85a40"
+  ace_mode: lisp
+  extensions:
+  - ".bgb"
+  tm_scope: source.bgb
+  language_id: 92330322
 Bison:
   type: programming
   color: "#6A463F"
